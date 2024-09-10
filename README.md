@@ -86,22 +86,7 @@ Illustrates digital signature creation and verification.
 - Bob: Can verify Alice's signatures
 - Eve: Can see signed messages and verify signatures, but cannot forge Alice's signature
 
-## Running the Demonstrations
-
-To run the demonstrations:
-
-1. Ensure you have Python installed
-2. Clone this repository
-3. Run `python crypto_demo.py`
-
-The script will output tables for each scenario, showing the steps and what information is available to Alice, Bob, and Eve at each stage.
-
-## Further Reading
-
-For secure, real-world implementations, please refer to established cryptographic libraries and consult with security experts. Some resources for learning more about cryptography include:
-
-- [Cryptography and Network Security: Principles and Practice](https://www.amazon.com/Cryptography-Network-Security-Principles-Practice/dp/0134444280) by William Stallings
-- [Introduction to Modern Cryptography](https://www.cs.umd.edu/~jkatz/imc.html) by Jonathan Katz and Yehuda Lindell
-- [The Crypto101 Course](https://www.crypto101.io/)
+## Results
+![](https://github.com/ericyoc/key_exchanges_demo_poc/blob/main/key_exchanges_results.jpg)
 
 Remember, never implement your own cryptography for real-world applications. Always use well-vetted, standard cryptographic libraries.
