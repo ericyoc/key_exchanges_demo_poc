@@ -6,6 +6,10 @@ This repository demonstrates basic cryptographic concepts using simplified imple
 
 **IMPORTANT**: The implementations in this repository are greatly simplified and use small numbers for demonstration purposes only. They are NOT secure and should NEVER be used in real-world applications. This code is purely for educational purposes to illustrate basic cryptographic concepts.
 
+## Motivating Work
+Diffie-Hellman vs. RSA Encryption Algorithms- What's the Difference- - YouTube
+https://www.youtube.com/watch?v=VY4EouzyJS0
+
 ## Scenarios
 
 ### 1. Diffie-Hellman Key Exchange
