@@ -87,6 +87,6 @@ Illustrates digital signature creation and verification.
 - Eve: Can see signed messages and verify signatures, but cannot forge Alice's signature
 
 ## Results
-![](https://github.com/ericyoc/key_exchanges_demo_poc/blob/main/key_exchanges_results.jpg)
+![](https://github.com/ericyoc/key_exchanges_demo_poc/blob/main/key_exchanges_results_table.jpg)
 
 Remember, never implement your own cryptography for real-world applications. Always use well-vetted, standard cryptographic libraries.
